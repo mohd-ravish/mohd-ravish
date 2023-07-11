@@ -4,7 +4,7 @@
 
 - 🔭 3rd Year Computer Engineering Student at Jamia Millia Islamia
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohd-ravish](https://github.com/mohd-ravish)
 
